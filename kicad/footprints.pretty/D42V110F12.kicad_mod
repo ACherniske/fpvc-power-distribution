@@ -281,4 +281,15 @@
 		(uuid "88f0ad72-a491-4cce-a36a-cdafeb40f4ea")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/models/d42v110fx-step-down-voltage-regulator.step"
+		(offset
+			(xyz 0 0 2.54)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
 )
