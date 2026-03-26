@@ -508,7 +508,13 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 255)",
+      "+5V": "rgb(0, 255, 255)",
+      "24V": "rgb(0, 255, 0)",
+      "GND": "rgb(255, 153, 0)",
+      "VIN": "rgb(0, 0, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
@@ -517,7 +523,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../documentation/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -637,7 +643,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../documentation/",
     "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
