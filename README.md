@@ -10,6 +10,20 @@ A 2-layer power distribution board designed in KiCad for the NFPA Fluid Powered 
 
 ---
 
+## Board Images
+
+### Top and bottom layers
+
+| Top layer | Bottom layer |
+|---|---|
+| ![FPVC power distribution board top layer](./images/top.svg) | ![FPVC power distribution board bottom layer](./images/bottom.svg) |
+
+### Schematic
+
+![FPVC power distribution board overview](./images/fpvc-power-distribution.svg)
+
+---
+
 ## Ordering from JLCPCB
 
 ### 1. Download the Gerber files
