@@ -78,6 +78,6 @@ DigiKey links are provided in the BOM for all components that cannot be found in
 
 ## License
 
-Copyright 2025 Aiden Cherniske
+Copyright 2026 Aiden Cherniske
 
 Licensed under the Apache License, Version 2.0. See [`LICENSE`](./LICENSE) for the full text.
